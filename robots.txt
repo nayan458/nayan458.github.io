@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nayan458.github.io/sitemap.xml
+Sitemap: https://nayan458.github.ionayan458.github.io/sitemap.xml
